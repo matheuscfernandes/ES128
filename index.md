@@ -15,7 +15,7 @@ title: "Home"
 > Katia Bertoldi - Pierce 311 - bertoldi@seas.harvard.edu
 
 **Teaching fellows:** 
-> Nick Vasios - Pierce 327 - vasios@g.harvard.edu
+> Nick Vasios - Pierce 327 - vasios@g.harvard.edu<br/>
 > Matt Fernandes - Pierce 327 - fernandes@g.harvard.edu
 
 **Office hours:** <br/>
@@ -33,8 +33,3 @@ Introduction to computational techniques for the simulation of a large variety o
 Homework (25%)<br/>
 Two Mid-Term Exams (25% each)<br/>
 Project (25%)
-
-* [Lecture Notes](./LectureNotes)
-* [Code](./code)
-
-$$\frac{1}{11}$$ 

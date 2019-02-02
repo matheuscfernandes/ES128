@@ -7,3 +7,7 @@ title: "Lecture Notes"
 
 
 
+* [Lecture Notes](./LectureNotes)
+* [Code](./code)
+
+$$\frac{1}{11}$$ 
