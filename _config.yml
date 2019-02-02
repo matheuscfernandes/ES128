@@ -35,5 +35,6 @@ plugins:
  - jekyll-feed
  - jekyll-paginate
  - jekyll-default-layout
+ - jekyll-seo-tag
 
 mathjax: true
