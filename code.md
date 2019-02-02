@@ -1,6 +1,6 @@
 ---
-nav_include: 1
-title: Code
+layout: home
+title: "Code"
 ---
 
 
