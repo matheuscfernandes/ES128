@@ -5,7 +5,7 @@ title: "Home"
 * [Lecture Notes](./LectureNotes)
 * [Code](./code)
 
-$$\frac{1}{5}$$ 
+$$\frac{1}{55}$$ 
 
 <img src="./assets/CourseImage.png"
      alt="Markdown Monster icon"
