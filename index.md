@@ -1,1 +1,1 @@
----title: ES 128---* [Lecture Notes](./LectureNotes/)
+* [Lecture Notes](./LectureNotes)
