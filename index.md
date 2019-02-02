@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: home
 title: "Home"
 ---
 * [Lecture Notes](./LectureNotes)
 * [Code](./code)
 
-$\frac{1}{36}$ 
+$\frac{1}{368}$ 
 
 
