@@ -19,8 +19,11 @@ dark_theme: false            # enables dark mode
 
 navigation:                  # (optional) site navigation in the header
   - index.md
-  - code.md
   - LectureNotes.md
+  - Homework.md
+  - HomeworkSolutions.md
+  - code.md
+
 
 # icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
 #   envelope: "mailto:"
