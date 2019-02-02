@@ -5,7 +5,8 @@ title: "Home"
 
 <img src="./assets/CourseImage.png"
      alt="Course Image"
-     style="float: center; width: 100px;" />
+     style="float: center" 
+     width="100px"/>
 
 * [Lecture Notes](./LectureNotes)
 * [Code](./code)
