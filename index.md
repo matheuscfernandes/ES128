@@ -31,7 +31,7 @@ title: "Home"
 
 **Prerequisites:** Engineering Sciences 120 and 123 or equivalent introduction to the mechanics of deformable materials and fluids.
 
-**Grading**<br/>
+**Grading:**<br/>
 Homework (25%)<br/>
 Two Mid-Term Exams (25% each)<br/>
 Project (25%)
