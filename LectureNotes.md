@@ -10,11 +10,9 @@ body { column-count: 2 };
 
 [Lecture 1](./LectureNotes/Lecture_1.pdf)
 
-[Lecture 23](./LectureNotes/Lecture_2.pdf)
+[Lecture 2](./LectureNotes/Lecture_2.pdf)
 
-<style>
-body { column-count: 1 };
-</style>
+
 
 # Nick's Class Notes
 
