@@ -12,4 +12,4 @@ title: "Home"
 * [Lecture Notes](./LectureNotes)
 * [Code](./code)
 
-$$\frac{1}{3124}$$ 
+$$\frac{1}{1}$$ 
