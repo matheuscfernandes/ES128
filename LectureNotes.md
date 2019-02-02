@@ -16,21 +16,21 @@ title: "Lecture Notes"
 }
 </style>
 
+
+
 <div class="grid">
     <div class="col-1-2">
        <div class="content">
-           <p>...insert content left side...</p>
+           [Lecture 1](./LectureNotes/Lecture_1.pdf)
        </div>
     </div>
     <div class="col-1-2">
        <div class="content">
-           <p>.insert content right side...</p>
+           [Lecture 2](./LectureNotes/Lecture_2.pdf)
        </div>
     </div>
 </div>
-[Lecture 1](./LectureNotes/Lecture_1.pdf)
 
-[Lecture 2](./LectureNotes/Lecture_2.pdf)
 
 
 
