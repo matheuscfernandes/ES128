@@ -1,5 +1,5 @@
 ---
-nav_include: 1
+nav_include: 0
 title: Home
 ---
 * [Lecture Notes](./LectureNotes)
