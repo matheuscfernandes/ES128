@@ -23,7 +23,6 @@ navigation:                  # (optional) site navigation in the header
   - Homework.md
   - UsefulDocs.md
   - code.md
-  - [test](http://google.com)
 
 
 # icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
