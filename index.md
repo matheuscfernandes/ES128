@@ -27,7 +27,7 @@ title: "Home"
 
 **Textbook:** A First Course in Finite Elements (Jacob Fish, Ted Belytschko)
 
-Introduction to computational techniques for the simulation of a large variety of engineered systems. The applicability to real-world engineering problems is stressed throughout the course. The course provides an introduction to finite element methods for analysis of steady-state and transient problems in solid, structural, fluid mechanics, and heat transfer. Modeling of problems and interpretation of numerical results. Implementation of simple MATLAB codes and use of existing general-purpose programs (ABAQUS).  Final project addressing a significant problem arising in engineered systems.
+**Description:** Introduction to computational techniques for the simulation of a large variety of engineered systems. The applicability to real-world engineering problems is stressed throughout the course. The course provides an introduction to finite element methods for analysis of steady-state and transient problems in solid, structural, fluid mechanics, and heat transfer. Modeling of problems and interpretation of numerical results. Implementation of simple MATLAB codes and use of existing general-purpose programs (ABAQUS).  Final project addressing a significant problem arising in engineered systems.
 
 **Prerequisites:** Engineering Sciences 120 and 123 or equivalent introduction to the mechanics of deformable materials and fluids.
 
