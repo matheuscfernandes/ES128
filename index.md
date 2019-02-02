@@ -6,7 +6,7 @@ title: "Home"
 <img src="./assets/CourseImage.png"
      alt="Course Image"
      aling="middle"
-     width="600px"
+     width="500px"
      class="center"/>
 </p>
 
