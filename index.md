@@ -5,6 +5,8 @@ title: "Home"
 * [Lecture Notes](./LectureNotes)
 * [Code](./code)
 
-$$\frac{1}{4554}$$ 
+$$\frac{1}{4555}$$ 
 
-![](https://github.com/matheuscfernandes/ES128/blob/master/assets/CourseImage.png | width=100)
+<img src="https://github.com/matheuscfernandes/ES128/blob/master/assets/CourseImage.png "
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
