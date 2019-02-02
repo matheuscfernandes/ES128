@@ -22,7 +22,7 @@ navigation:                  # (optional) site navigation in the header
   - LectureNotes.md
   - Homework.md
   - HomeworkSolutions.md
-  - UserfulDocs.md
+  - UsefulDocs.md
   - code.md
 
 
