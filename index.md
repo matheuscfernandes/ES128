@@ -36,4 +36,4 @@ Homework (25%)<br/>
 Two Mid-Term Exams (25% each)<br/>
 Project (25%)
 
-[Click Here](./Syllabus) to view the full Syllabus.
+[Click Here](./Syllabus) to view the full Syllabus. [[PDF](./UsefulDocs/Course_Agenda.pdf)]
