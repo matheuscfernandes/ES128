@@ -15,12 +15,12 @@ date_format: "%B %d, %Y"     # see http://shopify.github.io/liquid/filters/date/
 
 # Theme settings
 style: contrast               # choose between "default", "contrast" and "minimal"
-dark_theme: false            # enables dark mode
+dark_theme: true            # enables dark mode
 
 navigation:                  # (optional) site navigation in the header
-  - index.html
-  - archive.md
-  - about.md
+  - index.md
+  - code.md
+  - LectureNotes.md
 
 # icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
 #   envelope: "mailto:"
