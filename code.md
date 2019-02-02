@@ -40,9 +40,3 @@ Klocal=(A*Area)*(B'*D*B);
     
 end
 ```
-
-
-
-
-
-
