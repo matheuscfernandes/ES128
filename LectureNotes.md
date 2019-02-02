@@ -4,10 +4,18 @@ title: "Lecture Notes"
 ---
 
 # Katia's Class Notes
-<style>
-body { column-count: 2 };
-</style>
-
+<div class="grid">
+    <div class="col-1-2">
+       <div class="content">
+           <p>...insert content left side...</p>
+       </div>
+    </div>
+    <div class="col-1-2">
+       <div class="content">
+           <p>...insert content right side...</p>
+       </div>
+    </div>
+</div>
 [Lecture 1](./LectureNotes/Lecture_1.pdf)
 
 [Lecture 2](./LectureNotes/Lecture_2.pdf)
