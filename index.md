@@ -5,9 +5,9 @@ title: "Home"
 
 <img src="./assets/CourseImage.png"
      alt="Course Image"
-     style="float: center"
      aling="middle"
-     width="600px"/>
+     width="600px"
+     class="center"/>
 
 **Monday – Wednesday: 3:00 – 4:15 pm – Pierce 309**
 
