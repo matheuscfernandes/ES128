@@ -5,6 +5,6 @@ title: "Home"
 * [Lecture Notes](./LectureNotes)
 * [Code](./code)
 
-$\frac{1}{368}$ 
+$\frac{1}{3}$ 
 
 

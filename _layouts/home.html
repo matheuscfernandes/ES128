@@ -23,10 +23,10 @@ layout: default
 </footer>
 {% endif %}
 {% else %}
-
+<article class="archive">
   {{ content }}
   {% for post in site.posts %}
   {%- assign date_format = site.date_format | default: "%B %d, %Y" -%}
   {% endfor %}
-
+</article>
 {% endif %}
