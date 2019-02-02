@@ -4,7 +4,7 @@ title: "Lecture Notes"
 ---
 
 # Katia's Class Notes
-<style>
+<!--<style>
  .grid {
   display: flex;
  }
@@ -17,20 +17,22 @@ title: "Lecture Notes"
 </style>
 
 
-
 <div class="grid">
     <div class="col-1-2">
        <div class="content">
-           [Lecture 1](./LectureNotes/Lecture_1.pdf)
+           <p></p>
        </div>
     </div>
     <div class="col-1-2">
        <div class="content">
-           [Lecture 2](./LectureNotes/Lecture_2.pdf)
+           <p></p>
        </div>
     </div>
 </div>
+-->
 
+[Lecture 1](./LectureNotes/Lecture_1.pdf)<br>
+[Lecture 2](./LectureNotes/Lecture_2.pdf)
 
 
 
