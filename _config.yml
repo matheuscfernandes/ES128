@@ -36,8 +36,4 @@ plugins:
  - jekyll-paginate
  - jekyll-default-layout
 
-markdown: kramdown
-kramdown:
-    math_engine: mathjax
-    input: GFM
-    syntax_highlighter: rouge
+mathjax: true
