@@ -3,7 +3,10 @@ layout: home
 title: "Homeworks"
 ---
 
-[Lecture 1 - 2](./LectureNotes/Lecture_1-2.pdf)
+#Homeworks
 
+[Homework 0](./Homework/PS0.pdf)
+
+#Homework Solutions
 
 
