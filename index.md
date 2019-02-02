@@ -2,14 +2,15 @@
 layout: home
 title: "Home"
 ---
-
+<p align="center">
 <img src="./assets/CourseImage.png"
      alt="Course Image"
      aling="middle"
      width="600px"
      class="center"/>
+</p>
 
-**Time:** Monday – Wednesday: 3:00 – 4:15 pm 
+**Time:** Monday – Wednesday: 3:00PM – 4:15PM 
 
 **Location:** Pierce 309
 
