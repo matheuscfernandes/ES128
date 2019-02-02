@@ -37,4 +37,4 @@ Project (25%)
 * [Lecture Notes](./LectureNotes)
 * [Code](./code)
 
-$$\frac{1}{111}$$ 
+$$\frac{1}{1}$$ 
