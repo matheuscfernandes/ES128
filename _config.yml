@@ -30,7 +30,7 @@ navigation:                  # (optional) site navigation in the header
 comments:                    # embed disqus or isso comments
 #  disqus: ""
 #  isso: ""
-
+math_engine: mathjax
 plugins: 
  - jekyll-feed
  - jekyll-paginate
