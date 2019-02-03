@@ -18,8 +18,8 @@ title: "Home"
 > Katia Bertoldi - Pierce 311 - [bertoldi@seas.harvard.edu](mailto:bertoldi@seas.harvard.edu)
 
 **Teaching fellows:** 
-> Nick Vasios - Pierce 327 - [vasios@g.harvard.edu](mailto:vasios@g.harvard.edu)<br>
-> Matt Fernandes - Pierce 327 - [fernandes@g.harvard.edu](mailto:fernandes@g.harvard.edu)
+> [Nick Vasios](http://nvasios.com) - Pierce 327 - [vasios@g.harvard.edu](mailto:vasios@g.harvard.edu)<br>
+> [Matt Fernandes](http://mcfernandes.com) - Pierce 327 - [fernandes@g.harvard.edu](mailto:fernandes@g.harvard.edu)
 
 **Office hours:** <br/>
 > Katia Bertoldi – TBD<br />
