@@ -12,7 +12,7 @@ title: "Home"
 
 **Time:** Monday – Wednesday: 3:00PM – 4:15PM 
 
-**Location:** Pierce 309
+**Location:** Pierce 209
 
 **Instructor:** 
 > [Katia Bertoldi](http://bertoldi.seas.harvard.edu/pages/principal-investigator) - Pierce 311 - [bertoldi@seas.harvard.edu](mailto:bertoldi@seas.harvard.edu)
