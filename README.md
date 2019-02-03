@@ -1,5 +1,7 @@
-# es128
+# ENG-SCI 128: Computational Solid and Structural Mechanics
 
-This repo stores Matt's notes and useful documents for ES128. 
+This repo stores es128.co website files.
+
+For questions or requests email: fernandes@g.harvard.edu 
 
 
