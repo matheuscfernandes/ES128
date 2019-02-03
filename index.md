@@ -15,7 +15,7 @@ title: "Home"
 **Location:** Pierce 309
 
 **Instructor:** 
-> Katia Bertoldi - Pierce 311 - [bertoldi@seas.harvard.edu](mailto:bertoldi@seas.harvard.edu)
+> [Katia Bertoldi](http://bertoldi.seas.harvard.edu/pages/principal-investigator) - Pierce 311 - [bertoldi@seas.harvard.edu](mailto:bertoldi@seas.harvard.edu)
 
 **Teaching fellows:** 
 > [Nick Vasios](http://nvasios.com) - Pierce 327 - [vasios@g.harvard.edu](mailto:vasios@g.harvard.edu)<br>
