@@ -5,7 +5,7 @@ title: "Syllabus"
 
 **Time:** Monday – Wednesday: 3:00 – 4:15 pm 
 
-**Location:** Pierce 309
+**Location:** Pierce 209
 
 **Instructor:** 
 > Katia Bertoldi - Pierce 311 - [bertoldi@seas.harvard.edu](mailto:bertoldi@seas.harvard.edu)
@@ -38,7 +38,7 @@ Project (25%)
 
 * All homework assignments will be given/announced on Wednesday and are due on the following Wednesday (one week - unless other instructions are provided).
 
-* All homework will be posted and submitted through Canvas.
+* All homework will be submitted through Gradescope.
 
 * Homework will consist of a combination of Paper, Matlab and Abaqus problems
 
