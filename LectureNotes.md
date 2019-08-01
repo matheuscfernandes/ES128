@@ -3,6 +3,9 @@ layout: home
 title: "Lecture Notes"
 ---
 
+**FILES HAVE BEEN REMOVED**
+
+
 # Katia's Class Notes
 <!--<style>
  .grid {
@@ -31,16 +34,16 @@ title: "Lecture Notes"
 </div>
 -->
 
-[Lecture 1](./LectureNotes/Lecture_1.pdf)<br>
-[Lecture 2](./LectureNotes/Lecture_2.pdf)
+<!-- [Lecture 1](./LectureNotes/Lecture_1.pdf)<br>
+[Lecture 2](./LectureNotes/Lecture_2.pdf) -->
 
 
 
 # Nick's Class Notes
 
-[Lecture Notes](./LectureNotes/ES128.pdf)
+<!-- [Lecture Notes](./LectureNotes/ES128.pdf) -->
 
 
 # Matt's Class Notes
 
-[Lecture 1-2](./LectureNotes/MLecture_1-2.pdf)
+<!-- [Lecture 1-2](./LectureNotes/MLecture_1-2.pdf) -->
