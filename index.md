@@ -10,6 +10,8 @@ title: "Home"
      class="center"/>
 </p>
 
+**This class is done, thank you for a great semester!**
+
 **Time:** Monday – Wednesday: 3:00PM – 4:15PM 
 
 **Location:** Pierce 209
@@ -21,10 +23,10 @@ title: "Home"
 > [Nick Vasios](http://nvasios.com) - Pierce 327 - [vasios@g.harvard.edu](mailto:vasios@g.harvard.edu)<br>
 > [Matt Fernandes](http://mcfernandes.com) - Pierce 327 - [fernandes@g.harvard.edu](mailto:fernandes@g.harvard.edu)
 
-**Office hours:** <br/>
+<!-- **Office hours:** <br/>
 > Katia Bertoldi – TBD<br />
 > Nick Vasios – TBD<br />
-> Matt Fernandes – TBD
+> Matt Fernandes – TBD -->
 
 **Textbook:** A First Course in Finite Elements (Jacob Fish, Ted Belytschko)
 
