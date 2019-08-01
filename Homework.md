@@ -3,12 +3,12 @@ layout: home
 title: "Homeworks"
 ---
 
-**FILES HAVE BEEN REMOVED**
-
 # Homework
+**FILES HAVE BEEN REMOVED**
 
 <!-- [Homework 0](./Homework/PS0.pdf) -->
 
 # Homework Solutions
+**FILES HAVE BEEN REMOVED**
 
 

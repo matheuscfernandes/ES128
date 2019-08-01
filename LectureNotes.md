@@ -3,10 +3,10 @@ layout: home
 title: "Lecture Notes"
 ---
 
-**FILES HAVE BEEN REMOVED**
-
 
 # Katia's Class Notes
+**FILES HAVE BEEN REMOVED**
+
 <!--<style>
  .grid {
   display: flex;
@@ -40,10 +40,12 @@ title: "Lecture Notes"
 
 
 # Nick's Class Notes
+**FILES HAVE BEEN REMOVED**
 
 <!-- [Lecture Notes](./LectureNotes/ES128.pdf) -->
 
 
 # Matt's Class Notes
+**FILES HAVE BEEN REMOVED**
 
 <!-- [Lecture 1-2](./LectureNotes/MLecture_1-2.pdf) -->
