@@ -21,7 +21,8 @@ title: "Home"
 
 **Teaching fellows:** 
 > [Matt Fernandes](http://mcfernandes.com) - Pierce 327 - [fernandes@g.harvard.edu](mailto:fernandes@g.harvard.edu)
-> [Nick Vasios](http://nvasios.com) - Pierce 327 - [vasios@g.harvard.edu](mailto:vasios@g.harvard.edu)<br>
+<!-- > [Nick Vasios](http://nvasios.com) - Pierce 327 - [vasios@g.harvard.edu](mailto:vasios@g.harvard.edu) -->
+<br>
 
 <!-- **Office hours:** <br/>
 > Katia Bertoldi – TBD<br />
