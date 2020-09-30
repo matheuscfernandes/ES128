@@ -42,7 +42,11 @@
 <header>
   <!-- {% unless site.hide_title %}<h1><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h1>{% endunless %} -->
   {% unless site.hide_title %}<h1><b>{{ site.title | escape }}</b></h1>{% endunless %}
-  {% if site.navigation %}<nav>{% for path in site.navigation %}{% assign node = site.pages | where: "name", path | first %}<a href="{{ node.url | relative_url }}">{{ node.title }}</a>{% endfor %}<a href="https://github.com/es128-2019/es128">Github</a><a href="https://canvas.harvard.edu/courses/47887">Canvas</a><a href="https://www.gradescope.com">Gradescope</a>
+  {% if site.navigation %}<nav>{% for path in site.navigation %}{% assign node = site.pages | where: "name", path | first %}<a href="{{ node.url | relative_url }}">{{ node.title }}</a>{% endfor %}
+    <a href="https://github.com/es128-2019/es128">Github</a>
+    <a href="https://git.fer.me/python-for-abaqus/">Python for Abaqus</a>
+    <!-- <a href="https://canvas.harvard.edu/courses/47887">Canvas</a>
+    <a href="https://www.gradescope.com">Gradescope</a> -->
   </nav>{% endif %}
   {% if site.icons %}<nav>{% for link in site.icons %}<a class="icon" href="{{ link[1] }}"><svg><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ link[0] }}"></use></svg></a>{% endfor %}</nav>{% endif %}
 </header>
